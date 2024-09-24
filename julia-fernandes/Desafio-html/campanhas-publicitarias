@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anna Bella - Campanhas Publicitárias</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+
+</head>
+
+<body>
+    <div id="principal">
+
+        <img src="arquivos-necessarios-projeto-julia-fernandes/capa.png">
+
+        <div id="menu">
+            <a href="index.html">HOME</a> |
+            <a href="biografia.html">BIOGRAFIA</a> |
+            <a href="campanhas-publicitarias.html">PSICOLOGIA</a> |
+            <a href="contato.html">CONTATO</a>
+
+        </div>
+
+        <div id="conteudo">
+            <h1>Campanhas publicitárias</h1>
+            <p>
+                A psicologia tem raízes antigas, com suas origens na filosofia, onde pensadores como Sócrates, Platão e Aristóteles exploraram questões sobre a mente e o comportamento humano. No século XIX, a psicologia se consolidou como uma disciplina científica com Wilhelm Wundt, considerado o "pai da psicologia", ao fundar o primeiro laboratório de psicologia em 1879.
+            </p>
+
+            <img src="arquivos-necessarios-projeto-anna-bella/foto1.png" class="img-campanha">
+
+            <p>
+                Após isso, surgiram várias correntes teóricas, como o behaviorismo, que focava no comportamento observável (com figuras como John Watson e B.F. Skinner), e a psicanálise, introduzida por Sigmund Freud, que enfatizava o inconsciente e as motivações internas. Ao longo do século XX, a psicologia se diversificou, incluindo a psicologia humanista, a psicologia cognitiva e a psicologia social, cada uma abordando diferentes aspectos da experiência humana.
+
+            </p>
+
+            <img src="arquivos-necessarios-projeto-anna-bella/foto2.png" class="img-campanha">
+
+            <p>
+                Hoje, a psicologia é uma disciplina abrangente, que utiliza métodos científicos para estudar o comportamento e os processos mentais, com aplicações em diversas áreas, como clínica, educacional, organizacional e comunitária.
+
+            </p>
+
+            <img src="arquivos-necessarios-projeto-anna-bella/foto3.png" class="img-campanha">
+
+            <p>
+                No século XXI a Psicólogia se torna uma ferramenta fundamental para a saúde mental do ser humano.
+
+            </p>
+        </div>
+
+        <div id="rodape">
+            <h4>Todos os direitos reservados</h4>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
